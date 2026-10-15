@@ -1,0 +1,3 @@
+code,name,credits,department,category,description,status,grade,planned_term,offered_spring,offered_summer,offered_fall,min_grade
+EECE 4400,Embedded Systems,3,EECE,Computer Engineering Core,Embedded systems design,Remaining,,,1,0,1,C
+EECE 4500,Digital Signal Processing,3,EECE,Technical Elective,DSP concepts,Remaining,,,1,0,1,C

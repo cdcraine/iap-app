@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block heading %}Risk Analysis{% endblock %}{% block content %}<div class="grid2">{% for level,title,detail in risks %}<div class="card"><div class="{{'risk-high' if level=='High' else 'risk-medium' if level=='Medium' else 'risk-low'}}">{{level}} • {{title}}</div><p>{{detail}}</p></div>{% endfor %}</div>{% endblock %}
